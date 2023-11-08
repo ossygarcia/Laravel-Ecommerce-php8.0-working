@@ -26,5 +26,6 @@ jobs:
         application_name: giftree-app
         environment_name: Giftree-app-env-1
         version_label: ${{github.sha}}
+        existing_bucket_name: elasticbeanstalk-us-east-1-381462137045
         region: us-east-1
         deployment_package: deploy.zip
