@@ -1,4 +1,4 @@
-name: Laravel deployment on AWS elastic beanstalk
+name: Laravel deployment on AWS elastic beanstalks
 
 on:
   push:
