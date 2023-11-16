@@ -24,5 +24,6 @@ jobs:
         application_name: test
         environment_name: Test-env
         version_label: ${{github.sha}}
+        existing_bucket_name: test-elasticbeanstalks
         region: us-east-1
         deployment_package: deploy.zip
